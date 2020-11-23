@@ -1,0 +1,1 @@
+{"mode":1,"ovr_wp_content_dir":"C:\/xampp\/htdocs\/elevate_furniture\/wp-content"}
