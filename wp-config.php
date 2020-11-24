@@ -41,22 +41,22 @@
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'elevate_furniture' );
+define( 'DB_NAME', "elevate_furniture_new" );
 
 
 /** MySQL database username */
 
-define( 'DB_USER', 'root' );
+define( 'DB_USER', "root" );
 
 
 /** MySQL database password */
 
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', "" );
 
 
 /** MySQL hostname */
 
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', "localhost" );
 
 
 /** Database Charset to use in creating database tables. */
@@ -146,7 +146,7 @@ $table_prefix = 'wp_';
 
  */
 
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
 
 define( 'WP_MEMORY_LIMIT', '256M' );
 
